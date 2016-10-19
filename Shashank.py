@@ -1,4 +1,5 @@
-from itertools import *
+from itertools import product
+from itertools import combinations
 """input1 = int(raw_input())"""
 noOftestcases=int(raw_input())
 output=[]
